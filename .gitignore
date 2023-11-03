@@ -1,0 +1,11 @@
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+
+.terraform.lock.hcl
+
+devops.json
+developer.json
+
+kustomize
